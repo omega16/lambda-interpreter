@@ -16,9 +16,10 @@ Reference books :
 
 ---
 references:
-- type: book
+- type: BOOK
   id: ttfp
-  author: Simon Thompson
+  author
+    -family : Simon Thompson
   issued:
     date-parts:
     - - 1999
