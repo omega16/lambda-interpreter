@@ -13,6 +13,10 @@ Reference books :
 
 - Simon Thompson. [Type theory & functional programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/), 1999.
 - H.P. Barendregt. [The Lambda Calculus](https://www.elsevier.com/books/the-lambda-calculus/barendregt/978-0-444-87508-2) , Volume 103 1984
+
+Reference pages:
+
 - Wikpedia [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+- [This](https://softwareengineering.stackexchange.com/questions/228722/redex-and-reduction-strategies) question about reduction
 
 
